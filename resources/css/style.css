@@ -22,7 +22,11 @@ body {
     font-size: 21px;
     color: grey;
 }
-
+.footer{
+    text-align: right;
+    color: grey;
+    font-size: 21px;
+}
 /* LINKS */
 
 .link--cta{
